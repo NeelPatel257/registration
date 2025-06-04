@@ -1,0 +1,21 @@
+
+   .container{
+    display: flex;
+    flex-direction: column;
+    background-color: aqua;
+   
+  } 
+   .i2{
+    margin-left: 300px;
+   }
+
+     .b2{
+    margin-top: 10px;
+    margin-left: 140px;
+    color: white;
+    background-color: black;
+    height: 35px;
+    width: 100px;
+    border-radius: 5px;
+    cursor: pointer;
+   }

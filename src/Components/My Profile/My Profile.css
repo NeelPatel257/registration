@@ -1,0 +1,31 @@
+.container{
+   margin-left: 500px; 
+ }
+
+  .i2{
+    margin-left: 100px;
+  }
+    .a1{
+      display: flex;
+      flex-direction: row;
+    }
+  .s1{
+     margin-top: 10px;
+    margin-left: 60px;
+    color: white;
+    background-color: black;
+    height: 35px;
+    width: 100px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  .c1{
+     margin-top: 10px;
+    margin-left: 50px;
+    color: white;
+    background-color: black;
+    height: 35px;
+    width: 100px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
